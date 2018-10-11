@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+      
+      
+      <TextView
+              android:text="十月一日游泳班开始报名了"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView12"/>
+      
+      <TextView
+              android:text="俱乐部关门通知"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView11"/>
+      
+      <TextView
+              android:text="俱乐部恢复正常营业"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView10"/>
+      
+      <TextView
+              android:text="俱乐部田径比赛公告"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView9"/>
+      
+      <TextView
+              android:text="俱乐部新赛季报名公告"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView"/>
+</LinearLayout>

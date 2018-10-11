@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+      
+      
+     
+      
+      <TextView
+              android:text="张教练 瑜伽课程 周日 8：00-12：00"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView3"/>
+      
+      <TextView
+              android:text="张教练 瑜伽课程 周五 12：00-14：00"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView8"/>
+      
+      <TextView
+              android:text="张教练 瑜伽课程 周三 9：00-11：00"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView7"/>
+      
+      <TextView
+              android:text="李教练 游泳课程 周日 16：00-18：00"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView6"/>
+      
+      <TextView
+              android:text="侯教练 瑜伽课程 周日 全天"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView5"/>
+      
+      <TextView
+              android:text="王教练 瘦身课程 周日 16：00-18：00"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView4"/>
+      
+      <TextView
+              android:text="张教练 蛙泳课程 周五 16：00-18：00"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/textView2"/>
+      <EditText
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:inputType="textPersonName"
+              android:hint="预约教练"
+              android:ems="10"
+              android:id="@+id/editText1"/>
+      <EditText
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:inputType="textPersonName"
+              android:hint="预约时间"
+              android:ems="10"
+              android:id="@+id/editText2"/>
+      <Button
+              android:text="开始预约"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/buttonnn"/>
+      
+
+
+</LinearLayout>
