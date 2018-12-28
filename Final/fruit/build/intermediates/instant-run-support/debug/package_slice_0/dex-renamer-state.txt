@@ -1,0 +1,4 @@
+#Wed Dec 12 16:56:41 CST 2018
+base.0=C\:\\Users\\bonko\\Documents\\Tencent Files\\565397239\\FileRecv\\shit\\shit\\fruit\\build\\intermediates\\transforms\\dexMerger\\debug\\43
+path.0=classes.dex
+renamed.0=classes.dex

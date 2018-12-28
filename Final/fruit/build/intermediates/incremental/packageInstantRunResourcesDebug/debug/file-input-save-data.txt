@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Dec 12 16:55:30 CST 2018
+1.base=C\:\\Users\\bonko\\Documents\\Tencent Files\\565397239\\FileRecv\\shit\\shit\\fruit\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=province_data.xml
+0.set=ASSET
+0.base=C\:\\Users\\bonko\\Documents\\Tencent Files\\565397239\\FileRecv\\shit\\shit\\fruit\\build\\intermediates\\assets\\debug
+1.path=bp.db

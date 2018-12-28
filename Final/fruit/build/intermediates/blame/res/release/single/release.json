@@ -1,0 +1,2198 @@
+[
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menagment_mycard.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\menagment_mycard.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_include_product_top.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\include_product_top.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_add_img.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\icon_add_img.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_fragment_preview.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\fragment_preview.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg_dialogue_all.9.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-xxhdpi\\bg_dialogue_all.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_splash_logo.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\splash_logo.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_right_out.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_hide2bottom.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\hide2bottom.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sell_purchaser.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\sell_purchaser.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_baihe.jpg.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\baihe.jpg"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_product_item.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\product_item.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0005.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0005.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_register_activity.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\register_activity.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_shadow.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\shadow.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_boder_prod_item.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\boder_prod_item.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_ic_media_item_nor.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\ic_media_item_nor.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_line.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_line.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0039.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0039.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_sell_boder_pressed.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\sell_boder_pressed.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_photo_pressed.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_photo_pressed.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0021.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0021.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_corner_bottom_right.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_corner_bottom_right.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_bg_btn_dis.9.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\bg_btn_dis.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0010.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0010.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_activity_show.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\activity_show.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_fragment.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\fragment.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_activity_crop2.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\activity_crop2.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_radiobutton_bg.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\radiobutton_bg.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menagment_edit.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\menagment_edit.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0003.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0003.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0030.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0030.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_fragment_find.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\fragment_find.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_corner_top_right.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_corner_top_right.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_bottom_in.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\bottom_in.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_add_img.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-xhdpi\\add_img.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0007.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0007.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_scan_flashlight.xml.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable\\scan_flashlight.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0023.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0023.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_bg_border_color_white.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\bg_border_color_white.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_add_img.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\add_img.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_order_confirm.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\order_confirm.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_top_out.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\top_out.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_prod_location.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\icon_prod_location.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_sel_back_press.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable\\sel_back_press.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0001.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0001.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0014.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0014.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg_dialogue_btn_focused.9.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-xxhdpi\\bg_dialogue_btn_focused.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_left_out.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sell_bullish.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\sell_bullish.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_ic_media_item_sel.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\ic_media_item_sel.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0028.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0028.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_top_in.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\top_in.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_scan_history.xml.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable\\scan_history.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_fire_smoke.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\fire_smoke.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_photo_normal.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_photo_normal.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0042.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0042.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_test1.JPG.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-mdpi\\test1.JPG"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0035.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0035.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0048.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0048.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_fragment_sell.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\fragment_sell.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_cube_ptr_classic_default_header.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ptr-load-more-1.0.6.aar\\59454e2e516c61558b1a7bb869964b72\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_fragment_origin.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\fragment_origin.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0026.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0026.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_text_indicator.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\text_indicator.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_history_pressed.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_history_pressed.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_boder.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\boder.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_add_img.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\add_img.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0041.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0041.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_mushroom_logo2.jpg.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-xhdpi\\mushroom_logo2.jpg"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_greenfood.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\greenfood.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0050.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0050.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_head.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\head.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_cube_ptr_classic_default_footer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ptr-load-more-1.0.6.aar\\59454e2e516c61558b1a7bb869964b72\\res\\layout\\cube_ptr_classic_default_footer.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0027.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0027.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_add_img.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-xxhdpi\\add_img.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_sell_boder_normal.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\sell_boder_normal.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0040.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0040.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_add_img.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\add_img.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_prod_img.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-mdpi\\prod_img.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\menu_menu_all_images.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\menu\\menu_all_images.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0009.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0009.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sell_support.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\sell_support.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_history_normal.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_history_normal.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_prod_img2.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-mdpi\\prod_img2.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0036.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0036.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_bg_btn_nor.9.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\bg_btn_nor.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_activity_preview.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\activity_preview.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_include_bottom_tab.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\include_bottom_tab.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_main_tab_icon_buyer_press.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\main_tab_icon_buyer_press.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0051.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0051.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_search_buyer.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\icon_search_buyer.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_list_item_folder.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\list_item_folder.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_right_in.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_bg_btn_normal_color_1.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\bg_btn_normal_color_1.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_bottom_out.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\bottom_out.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_bg_sell_shop_layout_selector.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\bg_sell_shop_layout_selector.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_prod_img4.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-mdpi\\prod_img4.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_flashlight_pressed.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_flashlight_pressed.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_ptr_rotate_arrow.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ptr-load-more-1.0.6.aar\\59454e2e516c61558b1a7bb869964b72\\res\\drawable-xhdpi-v4\\ptr_rotate_arrow.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0024.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0024.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0037.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0037.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_main_tab_icon_find_normal.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\main_tab_icon_find_normal.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sell_logistical.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\sell_logistical.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0012.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0012.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0025.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0025.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0038.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0038.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_prod_img3.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-mdpi\\prod_img3.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_ic_back.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\ic_back.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_managment_my_heade.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\managment_my_heade.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg_dialogue_btn_pressed.9.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-xxhdpi\\bg_dialogue_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_product_info.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\product_info.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_fade_in.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_sell_add_activity.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\sell_add_activity.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0049.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0049.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_activity_capture.xml.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0004.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0004.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_laser.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_laser.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_yes_no_bg.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\yes_no_bg.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sell_message.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\sell_message.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0011.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0011.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_corner_bottom_left.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_corner_bottom_left.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_smoke.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\smoke.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_mushroom_logo2.jpg.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\mushroom_logo2.jpg"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0013.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0013.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0047.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0047.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_activity_image_pre.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\activity_image_pre.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_fragment_buy.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\fragment_buy.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0020.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0020.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_include_headbar.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\include_headbar.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_product_img.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-mdpi\\product_img.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sell_set.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\sell_set.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0006.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0006.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_main_tab_icon_origin_normal.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\main_tab_icon_origin_normal.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_scale_out.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\scale_out.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_fail.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_fail.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_bg_btn_press_color_1.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\bg_btn_press_color_1.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_activity_images_grid.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\activity_images_grid.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_fragment_images_grid.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\fragment_images_grid.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0015.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_fragment_management.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\fragment_management.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_findpassword_activity.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\findpassword_activity.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_star_full.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-mdpi\\star_full.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_arrow_left.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\ic_arrow_left.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0008.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0008.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\menu_menu_main.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_arrow_right_grey.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\ic_arrow_right_grey.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_province_listview.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\province_listview.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_bg_btn_press_selector_1.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\bg_btn_press_selector_1.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_product_item_img.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\product_item_img.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_arrow_right.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_province_adapter.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\province_adapter.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_default_img.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\default_img.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0002.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0002.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_fire.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\fire.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_prod_support.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\icon_prod_support.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_main_tab_icon_find_press.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\main_tab_icon_find_press.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_bg_btn_pre.9.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\bg_btn_pre.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\raw_beep.ogg.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sell_orders.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\sell_orders.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_star_empty.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-mdpi\\star_empty.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_seekbar_style.xml.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_main_tab_icon_seller_press.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\main_tab_icon_seller_press.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_main_tab_icon_management_press.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\main_tab_icon_management_press.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0022.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0022.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_bg_managment_item_selector.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\bg_managment_item_selector.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_ic_done.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\ic_done.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_logo.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_thumb_unfocus.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\thumb_unfocus.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_show_from_bottom.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\show_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0034.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0034.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_btn_radio_checked.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-xxhdpi\\btn_radio_checked.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_sel_top_ok.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable\\sel_top_ok.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_head_photo_preview_circle_mask.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\head_photo_preview_circle_mask.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0033.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0033.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_main_tab_icon_seller_normal.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\main_tab_icon_seller_normal.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_btn_radio_unchecked.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-xxhdpi\\btn_radio_unchecked.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0018.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0018.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_fragment_avatar_crop.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\fragment_avatar_crop.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_sel_grid_camera_bg.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable\\sel_grid_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0043.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0043.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_main_tab_icon_origin_press.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\main_tab_icon_origin_press.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_activity_all_images.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\activity_all_images.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_default_check.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\default_check.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_qr_code_bg.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\qr_code_bg.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_mushroom_login.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\mushroom_login.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_fade_out.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_sell_goods.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\sell_goods.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_shop_background.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\img_shop_background.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0044.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0044.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_sel_media_item_checked.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable\\sel_media_item_checked.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_activity_picker.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\activity_picker.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0019.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0019.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_login_activity.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_main_tab_icon_buyer_normal.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\main_tab_icon_buyer_normal.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_product_buy_window.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\product_buy_window.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0016.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0016.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_activity_crop.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\activity_crop.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0029.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0029.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0045.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0045.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_notification_template_lines.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_scan_photo.xml.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable\\scan_photo.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_scale_in.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\scale_in.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_seekbar_bg.xml.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable\\seekbar_bg.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0031.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0031.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_ptr_rotate_arrow_up.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ptr-load-more-1.0.6.aar\\59454e2e516c61558b1a7bb869964b72\\res\\drawable-xhdpi-v4\\ptr_rotate_arrow_up.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_cube_ptr_simple_loading.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ptr-load-more-1.0.6.aar\\59454e2e516c61558b1a7bb869964b72\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_corner_top_left.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_corner_top_left.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0046.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0046.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\anim_left_in.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_main_tab_icon_management_normal.png.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-hdpi\\main_tab_icon_management_normal.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_scan_flashlight_normal.png.flat",
+        "source": "E:\\Fruit\\Origin\\build\\intermediates\\bundles\\release\\res\\drawable-hdpi-v4\\scan_flashlight_normal.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_shape_menagment_head.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\shape_menagment_head.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0032.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0032.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_sparkle.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\sparkle.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_activity_preview_del.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\activity_preview_del.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_splash_activity.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_bg_img_selector.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\drawable-ldpi\\bg_img_selector.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4_wenzi0017.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\htextview-library-0.1.3.aar\\60c5988aae4fff1bed38bd30cc7db3c0\\res\\drawable-nodpi-v4\\wenzi0017.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_ic_camera.png.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\drawable-xxhdpi-v4\\ic_camera.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_image_grid_item.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\image_grid_item.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_product_bottom_bar.xml.flat",
+        "source": "E:\\Fruit\\fruit\\src\\main\\res\\layout\\product_bottom_bar.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_grid_item_camera.xml.flat",
+        "source": "E:\\Fruit\\androidimagepicker\\build\\intermediates\\bundles\\release\\res\\layout\\grid_item_camera.xml"
+    },
+    {
+        "merged": "E:\\Fruit\\fruit\\build\\intermediates\\res\\merged\\release\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\345bd7c79f35618a414d1db938519d4f\\res\\layout\\abc_expanded_menu_layout.xml"
+    }
+]

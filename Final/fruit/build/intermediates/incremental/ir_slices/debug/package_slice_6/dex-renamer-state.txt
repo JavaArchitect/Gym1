@@ -1,0 +1,4 @@
+#Tue Jul 03 18:14:36 CST 2018
+base.0=D\:\\AndroidFile\\Fruit\\fruit\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
